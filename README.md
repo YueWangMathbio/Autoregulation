@@ -1,5 +1,5 @@
 # Autoregulation
-Code and data for the AR inference paper (arXiv:2201.03164)
+Code and data for the autoregulation inference paper
 
 Guo.m: calculate VMR for data in Guo.xls
 Moignard.m: calculate VMR for data in Moignard.xlsx
